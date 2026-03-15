@@ -1,16 +1,16 @@
 import React from "react";
 
 const projects = [
-  {
-    id: 1,
-    title: "Smart Jewel Craft",
-    subtitle: "Jewelry E-commerce Platform",
-    description: "A modern, interactive platform for jewelry shopping with advanced filtering, AR try-on, and seamless checkout.",
-    year: "2025",
-    image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=1000&auto=format&fit=crop",
-    link: "https://smartjewelcraft.netlify.app/",
-    tags: ["React", "E-commerce", "UI/UX"]
-  },
+  // {
+  //   id: 1,
+  //   title: "Smart Jewel Craft",
+  //   subtitle: "Jewelry E-commerce Platform",
+  //   description: "A modern, interactive platform for jewelry shopping with advanced filtering, AR try-on, and seamless checkout.",
+  //   year: "2025",
+  //   image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?q=80&w=1000&auto=format&fit=crop",
+  //   link: "https://smartjewelcraft.netlify.app/",
+  //   tags: ["React", "E-commerce", "UI/UX"]
+  // },
   {
     id: 2,
     title: "CarePulse - Patient Portal",
