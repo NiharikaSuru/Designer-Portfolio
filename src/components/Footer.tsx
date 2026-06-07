@@ -66,11 +66,11 @@ export default function Footer() {
                     </a>
                   </li>
                   <li className="text-stone-600">·</li>
-                  <li>
+                  {/* <li>
                     <a href="https://github.com/NiharikaSuru?tab=repositories" target="_blank" rel="noopener noreferrer" className="text-stone-400 hover:text-white transition-colors">
                       GitHub
                     </a>
-                  </li>
+                  </li> */}
                 </ul>
               </div>
 
@@ -81,7 +81,7 @@ export default function Footer() {
                   Visakhapatnam, Andhra Pradesh<br />
                   India - 530016
                 </p>
-                <p className="text-xs text-stone-500 mt-2 uppercase tracking-wider">Available for remote work</p>
+                {/* <p className="text-xs text-stone-500 mt-2 uppercase tracking-wider">Available for remote work</p> */}
               </div>
 
             </div>
