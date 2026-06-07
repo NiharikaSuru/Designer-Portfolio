@@ -105,8 +105,8 @@ export default function Sidebar() {
 
       <div className="hidden lg:block text-xs text-stone-400 uppercase tracking-widest">
         <p>&copy; 2026 Niharika Suru</p>
-        <p className="my-2">Visakhapatnam | India </p>
-          <p> Remote</p>
+        {/* <p className="my-2">Visakhapatnam | India </p> */}
+          {/* <p> Remote</p> */}
       </div>
     </aside>
   );
