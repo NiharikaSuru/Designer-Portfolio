@@ -6,7 +6,7 @@ const skills = [
 ];
 
 const stats = [
-  { number: "2.5+", label: "Years Experience" },
+  { number: "3+", label: "Years Experience" },
   { number: "30%", label: "Faster Prototyping" },
   { number: "10+", label: "Real Time Projects" }
 ];
